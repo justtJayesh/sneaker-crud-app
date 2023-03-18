@@ -1,0 +1,211 @@
+{
+  "products": [
+    {
+      "image": "https://images.vegnonveg.com/resized/700X573/9101/w-blazer-low-77-jumbo-whitemalachite-university-blue-64101f446ab79.jpg",
+      "title": "BLAZER LOW '77 JUMBO 'WHITE/MALACHITE-UNIVERSITY BLUE'",
+      "price": 8595,
+      "brand": "NIKE",
+      "discount": "10",
+      "category": "men",
+      "id": 2
+    },
+    {
+      "image": "https://images.vegnonveg.com/resized/700X573/9028/adilette-noda-w-cblackcblackcwhite-6405896f91074.jpg",
+      "title": "ADILETTE NODA W 'CBLACK/CBLACK/CWHITE",
+      "price": 7599,
+      "brand": "ADIDAS",
+      "discount": "2",
+      "category": "men",
+      "id": 3
+    },
+    {
+      "image": "https://images.vegnonveg.com/resized/700X573/9019/air-jordan-5-retro-se-university-blueblack-white-63fddc26d4d54.jpg",
+      "title": "AIR JORDAN 5 RETRO SE 'UNIVERSITY BLUE/BLACK-WHITE'",
+      "price": "30295",
+      "brand": "JORDAN",
+      "discount": "10",
+      "category": "men",
+      "id": 4
+    },
+    {
+      "image": "https://images.vegnonveg.com/resized/700X573/8962/w-nike-cortez-whiteblack-lt-photo-blue-sail-63e63d2e520f9.jpg",
+      "title": "W CORTEZ 'WHITE/BLACK-LT PHOTO BLUE-SAIL'",
+      "price": 7495,
+      "brand": "NIKE",
+      "discount": "12",
+      "category": "women",
+      "id": 5
+    },
+    {
+      "image": "https://images.vegnonveg.com/resized/700X573/8948/nike-air-dunk-jumbo-saillight-silver-mint-foam-pink-foam-63e63ec7898e2.jpg",
+      "title": "AIR DUNK JUMBO 'SAIL/LIGHT SILVER-MINT FOAM-PINK FOAM'",
+      "price": 11458,
+      "brand": "NIKE",
+      "discount": "5",
+      "category": "men",
+      "id": 6
+    },
+    {
+      "image": "https://images.vegnonveg.com/resized/700X573/9085/w-air-adjust-force-2023-blackmulti-color-sanddrift-vivid-purple-640ec2d43196b.jpg",
+      "title": "AIR ADJUST FORCE 2023 'BLACK/MULTI-COLOR-SANDDRIFT-VIVID PURPLE'",
+      "price": 15995,
+      "brand": "NIKE",
+      "discount": "12",
+      "category": "men",
+      "id": 7
+    },
+    {
+      "image": "https://images.vegnonveg.com/resized/700X573/9065/club-c-double-revenge-ftwr-whitepink-glowradiant-aqua-640b1a1cb4367.jpg",
+      "title": "CLUB C DOUBLE REVENGE 'FTWR WHITE/PINK GLOW/RADIANT AQUA'",
+      "price": 7599,
+      "brand": "REEBOK",
+      "discount": "12",
+      "category": "women",
+      "id": 8
+    },
+    {
+      "image": "https://images.vegnonveg.com/resized/700X573/6735/mn-skate-sk8-hi-blue-6364eafc934b3.jpg",
+      "title": "MN SKATE SK8-HI 'BLUE'",
+      "price": 8999,
+      "brand": "VANS",
+      "discount": "0",
+      "category": "men",
+      "id": 9
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/2-119_7fd97307-4159-4ce2-b0a5-f1c41b91b4f0.jpg?v=1677044473&width=1100",
+      "title": "Air Jordan 1 Retro High OG 'Chicago Lost & Found'",
+      "price": 31999,
+      "brand": "NIKE",
+      "discount": "5",
+      "category": "men",
+      "id": 10
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/2-43_8ce70742-3d0a-41a8-a590-600f3092c3e3.jpg?v=1677045417&width=1100",
+      "title": "HARDEN VOLUME 7 'OWHITE/CBLACK/GOLDMT'",
+      "price": 41999,
+      "brand": "ADIDAS ORIGINALS",
+      "discount": "5",
+      "category": "men",
+      "id": 11
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/2-84_8a066e16-d6b5-4bac-a5b3-c770cd1620d6.jpg?v=1677045867&width=1100",
+      "title": "WMN'S CHUCK TAYLOR ALL STAR LIFT HIGH TOP 'EGRET/GRAVEL/ARCTIC PINK'",
+      "price": 5499,
+      "brand": "Converse",
+      "discount": "0",
+      "category": "women",
+      "id": 12
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/2-81_da108a1c-7689-49ad-bf9c-1431ab2cb662.jpg?v=1677045833&width=1100",
+      "title": "WMN'S RUN STAR MOTION 'DUNE/BLACK/EGRET'",
+      "price": 7999,
+      "brand": "Converse",
+      "discount": "5",
+      "category": "women",
+      "id": 13
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/2-17_43126cf5-6aa5-4565-998a-47d1f813fefd.jpg?v=1675977700&width=1100",
+      "title": "WMN'S 550 'LILAC CHALK'",
+      "price": 18999,
+      "brand": "New Balance",
+      "discount": "3",
+      "category": "women",
+      "id": 14
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/2-125_0d1d59a3-147e-416d-b7e3-ba73a19a5492.jpg?v=1675967692&width=1100",
+      "title": "HELLO KITTY AIR PRESTO (YOUNGER KIDS)",
+      "price": 4197,
+      "brand": "NIKE",
+      "discount": "0",
+      "category": "kid",
+      "id": 15
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/DV0486-100-5.jpg?v=1678458041",
+      "title": "AIR HUARACHE PREMIUM 'SAIL/HEMP-BLACK-WHITE'",
+      "price": 12795,
+      "brand": "NIKE",
+      "discount": "3",
+      "category": "kid",
+      "id": 16
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/2-118_78437715-234f-4776-a58b-8c7dbdf50279.jpg?v=1677044456&width=1100",
+      "title": "WMN'S NIKE AIR FORCE 1 PLT.AF.ORM LV8 'MIDNIGHT NAVY-OXYGEN PURPLE'",
+      "price": 11895,
+      "brand": "NIKE",
+      "discount": "5",
+      "category": "kid",
+      "id": 18
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/2-138_7300256f-5851-4aea-90a0-cd506067b43c.jpg?v=1675977464&width=1100",
+      "title": "NITEBALL 'BLACK'",
+      "price": 12999,
+      "brand": "ADIDAS",
+      "discount": "5",
+      "category": "men",
+      "id": 19
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/2_a4aaa4b0-1b58-45e4-a9d1-602ee941f3a4.jpg?v=1677226287&width=1100",
+      "title": "MOTO JACQUARD TOUCH-STRAP 'NAVY BLUE/CORAL PINK/SEA GREEN'",
+      "price": 22999,
+      "brand": "SUICOKE",
+      "discount": "7",
+      "category": "women",
+      "id": 20
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/2_14.jpg?v=1678351167&width=1100",
+      "title": "BYW SELECT 'ECRU TINT/BLUE'",
+      "price": 13999,
+      "brand": "ADIDAS",
+      "discount": "5",
+      "category": "women",
+      "id": 21
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/1-40_2d992ad5-3330-4d1f-b5e9-bb92f816f0cc.jpg?v=1677045377&width=1100",
+      "title": "WMN'S AIR JORDAN 1 RETRO HIGH OG 'VARSITY MAIZE/GAME ROYAL-SAIL'",
+      "price": 16955,
+      "brand": "NIKE",
+      "discount": "3",
+      "category": "women",
+      "id": 22
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/jordan4.jpg1.jpg?v=1677044744",
+      "title": "AIR JORDAN 6 RETRO 'GREY/WHITE'",
+      "price": 18395,
+      "brand": "Jordan",
+      "discount": "5",
+      "category": "men",
+      "id": 23
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/2_54de8348-d96d-4844-93d5-67f79c3485c0.jpg?v=1678950764&width=1100",
+      "title": "AIR FORCE 1 '07 LV8 'PHANTOM/PHANTOM-SAIL-BLACK'",
+      "price": 10795,
+      "brand": "Nike",
+      "discount": "0",
+      "category": "women",
+      "id": 24
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/2-62_6f885ad0-1050-4059-8da9-bc7a159c5ec4.jpg?v=1675970929&width=1100",
+      "title": "WMN'S AIR JORDAN 4 RETRO 'CANYON PURPLE'",
+      "price": 18095,
+      "brand": "Jordan",
+      "discount": "5",
+      "category": "women",
+      "id": 25
+    }
+  ]
+}
